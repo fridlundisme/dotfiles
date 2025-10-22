@@ -2,59 +2,59 @@ return {
   -- Load all theme plugins but don't apply them
   -- This ensures all colorschemes are available for hot-reloading
   {
-    "ribru17/bamboo.nvim",
+    'ribru17/bamboo.nvim',
     lazy = true,
     priority = 1000,
   },
   {
-    "catppuccin/nvim",
-    name = "catppuccin",
+    'catppuccin/nvim',
+    name = 'catppuccin',
     lazy = true,
     priority = 1000,
   },
   {
-    "sainnhe/everforest",
+    'sainnhe/everforest',
     lazy = true,
     priority = 1000,
   },
   {
-    "kepano/flexoki-neovim",
+    'kepano/flexoki-neovim',
     lazy = true,
     priority = 1000,
   },
   {
-    "ellisonleao/gruvbox.nvim",
+    'ellisonleao/gruvbox.nvim',
     lazy = true,
     priority = 1000,
   },
   {
-    "rebelot/kanagawa.nvim",
+    'rebelot/kanagawa.nvim',
     lazy = true,
     priority = 1000,
   },
   {
-    "tahayvr/matteblack.nvim",
+    'tahayvr/matteblack.nvim',
     lazy = true,
     priority = 1000,
   },
   {
-    "loctvl842/monokai-pro.nvim",
+    'loctvl842/monokai-pro.nvim',
     lazy = true,
     priority = 1000,
   },
   {
-    "shaunsingh/nord.nvim",
+    'shaunsingh/nord.nvim',
     lazy = true,
     priority = 1000,
   },
   {
-    "rose-pine/neovim",
-    name = "rose-pine",
+    'rose-pine/neovim',
+    name = 'rose-pine',
     lazy = true,
     priority = 1000,
   },
   {
-    "folke/tokyonight.nvim",
+    'folke/tokyonight.nvim',
     lazy = true,
     priority = 1000,
   },
