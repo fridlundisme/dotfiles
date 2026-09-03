@@ -1,5 +1,12 @@
 # kickstart.nvim
 
+> **This config:** see [`doc/keymaps.md`](doc/keymaps.md) for the keymaps in use,
+> which plugin each one comes from, how to revert the ones that replaced the
+> kickstart defaults, and where each part of the config lives.
+>
+> In Neovim: `<leader>sk` searches every keymap, `:verbose map <key>` says which
+> file mapped it, and `:Lazy` / `:Mason` / `:checkhealth` cover the rest.
+
 ## Introduction
 
 A starting point for Neovim that is:
